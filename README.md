@@ -7,3 +7,6 @@
 | ----| ----------| ------|
 | 0 | Mean, Median and Mode | Easy |
 | 0 | Weighted Mean | Easy |
+| 1 | Quartilws | Easy |
+| 1 | Interquartile Range | Easy |
+| 1 | Standard Deviation | Easy |
