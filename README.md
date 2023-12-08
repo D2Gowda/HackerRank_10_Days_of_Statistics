@@ -13,16 +13,22 @@
 | 2 | Basic Probability | Mcq |
 | 2 | More Dice | Mcq |
 | 2 | Compound Event Probability | Mcq |
-| 3 | Conditional Probab |  |
-| 3 |||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+| 3 | Conditional Probab | Mcq |
+| 3 | Cards of the Same Suit | Mcq |
+| 3 | Drawing Marbles | Mcq |
+| 4 | Binary Distribution I | Easy|
+| 4 | Binary Distribution II | Easy |
+| 4 | Geometric Distribution I | Easy |
+| 4 | Geometric Distribution II | Easy |
+| 5 | Poisson Distribution I | Easy |
+| 5 | Poisson Distribution II | Easy |
+| 5 | Normal Distribution I | Easy |
+| 5 | Normal Distribution II | Easy |
+| 6 | The Central Limit Theorem I | Easy |
+| 6 | The Central Limit Theorem II | Easy |
+| 6 | The Central Limit Theorem III | Easy |
+| 7 | Pearson Correlation Coefficient I | Easy |
+| 7 | Spearman's Rank Correlation Coefficient | Easy |
+| 8 | Least Square Regression Line | Easy |
+| 8 | Pearson Correlation Coefficient II | MCQ |
+| 9 | Multiple Linear Regression | Medium |
