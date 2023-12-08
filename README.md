@@ -11,10 +11,10 @@
 | 1 | Interquartile Range | Easy |
 | 1 | Standard Deviation | Easy |
 | 2 | Basic Probability | Mcq |
-| 3 | More Dice | Mcq |
-| 3 | Compound Event Probability | Mcq |
-||||
-||||
+| 2 | More Dice | Mcq |
+| 2 | Compound Event Probability | Mcq |
+| 3 | Conditional Probab |  |
+| 3 |||
 ||||
 ||||
 ||||
