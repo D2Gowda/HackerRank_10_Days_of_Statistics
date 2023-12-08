@@ -13,3 +13,16 @@
 | 2 | Basic Probability | Mcq |
 | 3 | More Dice | Mcq |
 | 3 | Compound Event Probability | Mcq |
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
